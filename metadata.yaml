@@ -1,0 +1,31 @@
+_repo: Katharina-von-BoraGeschichtliches-Lebensbild_12636
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoma, Albrecht
+    birthdate: 1844
+    deathdate: 1915
+    gutenberg_agent_id: '4467'
+    url: http://www.gutenberg.org/2009/agents/4467
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12636'
+  lccn: g 01001479
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Luther, Martin, 1483-1546'
+- !lcsh 'Bora, Katharina von, 1499-1552'
+- !lcc 'CT'
+- !lcsh 'Reformation -- Germany -- Biography'
+- GITenberg
+title: 'Katharina von Bora
+
+  Geschichtliches Lebensbild'
+url: http://www.gutenberg.org/ebooks/12636
